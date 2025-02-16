@@ -1,3 +1,3 @@
 <?php
 
-echo "Hell nah !!!";
+echo "Hell neh !!!";
