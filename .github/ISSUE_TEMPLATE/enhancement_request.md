@@ -1,7 +1,7 @@
 ---
 name: 🟠 Enhancement Request
 about: Requesting updates/changes to existing features.
-title: "[Enhancement] "
+title: "🟠[Enhancement] "
 labels: enhancement
 assignees: ''
 ---

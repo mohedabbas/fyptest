@@ -1,7 +1,7 @@
 ---
 name: 📝 Documentation
 about: Updating README, Tutorials, etc.
-title: "[DOC] "
+title: "📝[DOC] "
 labels: documentation
 assignees: ''
 ---
