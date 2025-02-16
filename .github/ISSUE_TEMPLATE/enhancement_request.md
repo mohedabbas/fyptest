@@ -1,5 +1,5 @@
 ---
-name: Enhancement Request
+name: 🟠 Enhancement Request
 about: Requesting updates/changes to existing features.
 title: "[Enhancement] "
 labels: enhancement

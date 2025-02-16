@@ -1,5 +1,5 @@
 ---
-name: Documentation
+name: 📝 Documentation
 about: Updating README, Tutorials, etc.
 title: "[DOC] "
 labels: documentation
