@@ -1,3 +1,3 @@
 <?php
 
-echo "Test Signature !!";
+echo "Test Signature !! Sans -S";
