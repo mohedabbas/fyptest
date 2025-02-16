@@ -10,8 +10,8 @@ assignees: ''
 Describe the feature to be added.
 
 ## ✅ Steps to Reproduce
-- [ ] Requirement 1
-- [ ] Requirement 2
+- [ ] Step 1
+- [ ] Step 2
 
 ## 👀 Expected Behavior:
 
