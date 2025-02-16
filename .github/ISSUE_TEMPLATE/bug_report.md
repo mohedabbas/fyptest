@@ -2,7 +2,7 @@
 name: 🐞 Bug Report
 about: Reporting the bug
 title: "🐞[BUG] "
-labels: Bug
+labels: bug
 assignees: ''
 ---
 
