@@ -1,42 +1,21 @@
+MIT License
 
----
+Copyright (c) 2025 [ilia, mohed, wilson]
 
-### CODE_OF_CONDUCT.md
 
-```markdown
-# Code de Conduite
+Par la présente, il est accordé, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés,
+la permission d'utiliser le Logiciel sans restriction, y compris, sans limitation, les droits
+d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre
+des copies du Logiciel, et de permettre aux personnes auxquelles le Logiciel est fourni de le faire,
+sous réserve des conditions suivantes :
 
-Nous nous engageons à créer un environnement collaboratif, respectueux et inclusif pour tous les contributeurs du projet **FYPTest**. Ce code de conduite s'applique à toutes les interactions, sur GitHub ou lors de tout échange lié au projet.
+La mention de copyright ci-dessus et la présente autorisation doivent être incluses dans
+toutes les copies ou parties substantielles du Logiciel.
 
-## Attentes
-
-- **Respect** : Traitez chaque personne avec respect, quelle que soit son expérience, son genre, son origine ou toute autre caractéristique personnelle.
-- **Communication constructive** : Formulez vos critiques et commentaires de manière constructive et bienveillante.
-- **Inclusivité** : Favorisez un environnement accueillant et inclusif pour tous.
-- **Collaboration** : Travaillez ensemble pour améliorer le projet et partagez vos idées de manière positive.
-
-## Comportements inacceptables
-
-- **Harcelement et discrimination** : Aucun comportement de harcèlement, de discrimination ou de propos offensants ne sera toléré.
-- **Insultes et attaques personnelles** : Les insultes, attaques personnelles ou tout comportement dégradant sont strictement interdits.
-- **Abus de pouvoir** : Toute forme d'intimidation ou d'abus de position pour marginaliser un membre est inacceptable.
-
-## Signalement des incidents
-
-Si vous êtes témoin ou victime d'un comportement inapproprié :
-
-1. **Contactez l'équipe du projet** : Envoyez un email à [email@example.com] en détaillant l'incident (captures d'écran, descriptions, etc.).
-2. **Confidentialité** : Toutes les plaintes seront traitées avec la plus grande confidentialité.
-3. **Action** : Les mainteneurs examineront chaque signalement et prendront les mesures appropriées.
-
-## Engagement des Mainteneurs
-
-Les responsables du projet s'engagent à :
-
-- Réagir rapidement à tout signalement.
-- Protéger la confidentialité des personnes impliquées.
-- Prendre des mesures correctives (avertissement, suspension, voire exclusion) en cas de violations répétées ou graves.
-
-## Remerciements
-
-Ce code de conduite est inspiré du [Contributor Covenant](https://www.contributor-covenant.org/). Merci à tous de contribuer à faire de **FYPTest** un projet accueillant et respectueux.
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE,
+Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE
+PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU LES DÉTENTEURS DU COPYRIGHT
+NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ,
+QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UNE RESPONSABILITÉ DÉLICTUELLE OU AUTRE,
+DÉCOULANT DE, HORS OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES RELATIONS DANS LE LOGICIEL.
