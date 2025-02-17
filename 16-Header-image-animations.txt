@@ -1,0 +1,1 @@
+le traitement de l'image est fait dans le fichier header-image-animations.php 
